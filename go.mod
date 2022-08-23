@@ -1,4 +1,4 @@
-module github.com/google/go-licenses
+module github.com/willnorris/go-licenses
 
 go 1.16
 
